@@ -19,3 +19,11 @@ Exploring Next.js. Running on top of React, Next.js allow the page to load on th
 ```jsx
 npx create-next-app next-crash-course
 ```
+
+## Serve
+
+```jsx
+sudo npm i -g serve
+
+serve -s out -p 3011
+```

@@ -6,6 +6,11 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+
+  /* Make Navbar sticky*/
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 
 .nav ul {
