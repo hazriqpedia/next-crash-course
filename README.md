@@ -27,3 +27,7 @@ sudo npm i -g serve
 
 serve -s out -p 3011
 ```
+
+## Outcome
+
+![Sample screenshot](public/sample.png)
